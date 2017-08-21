@@ -1,0 +1,26 @@
+<h1>My Portfolio<h1>
+  <h3>My Developer work</h3>
+  <img src="https://klkh1g.by3301.livefilestore.com/y4mLmTfTqY9gixZRT5yBHNKTdaORAQrWyPUVy168plL3Q_nIxsvL2WTNEfBrSUip9_8mGwvMoueXWnHe_WlNKQ7bh-tH1gc3G4aan2m0wpmmzd7S10MEdzVN5SBXNwObQECGyDBJ7dixEvvg1ZH3Y36oaoVnKZfHXE5Ga2q9FiUBq-aCiaEEHWiu5F6zU_Q371C1fkoJDbIjXxtmbFLDQpOBg?width=192&height=256&cropmode=none">
+  <p>I have been doing developer stuff for 3 years and absolutely love it. <br>In the next 3 years, I would like to land a full-time developer position. <br> I happen to be starting an Application Developer certificate this fall and will finish spring 2018.</p>
+  <ul>
+    <ol><a href="gbccs.com">Grace Baptist Church</a> Edited Feb 2016-Feb 2017</ul>
+    <ol><a href="github.com/li3097">GitHub</a> My code portfolio that I learned from <a href="https://www.codecademy.com/ltidball15">CodeCademy</a> & <a href="https://www.freecodecamp.org/li3097"> Free Code Camp</a></ol></ul>
+ 
+  <div class="col-xs-6">
+    <p> Contact Info
+    <br> 859-445-8888
+    <br> ltidball15@gmail.com
+    <br> Newark, Delaware
+    <p/>
+  </div> 
+  
+  <p> @Lisa 2017</p>
+  
+  
+  body {
+  background-color: lightgreen;
+  text-align: center;
+}
+div{
+  margin: 10px 10px 10px 10px;
+}
